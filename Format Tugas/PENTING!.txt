@@ -1,0 +1,4 @@
+Perhatikan Setiap Ketentuan
+1. Pengerjaan tugas dilakukan di file format_tugas.docs dan disimpan dalam bentuk PDF dengan ketentuan yang tertera di Format Tugas.ipynb
+2. Tugas dikumpul hari Kamis 23.59 wib.
+3. Dikumpulkan di google form yang disediakan di file Format Tugas.ipynb
