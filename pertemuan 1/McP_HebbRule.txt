@@ -1,0 +1,5 @@
+Pertemuan 1 - Outlines
+a. Intro
+b. MCCuloch-Pitts Neuron Model
+c. Hebb Rule
+d. Tugas McP & Hebb Rule
