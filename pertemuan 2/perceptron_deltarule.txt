@@ -1,0 +1,4 @@
+Materi pertemuan ke-2 membahasa tentang:
+1. Konsep Perceptron dan penerapannya
+2. Delta Rule dan penerapannya
+3. Tugas
