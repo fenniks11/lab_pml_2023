@@ -1,0 +1,2 @@
+- Belajar Konsep MLP
+- Perhitungan MLP: forward pass, hitung error
