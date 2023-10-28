@@ -1,0 +1,2 @@
+1. Berisi penjelasan backward pass, chain rule, update bobot dan bias.
+2. Tugas
