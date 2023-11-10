@@ -1,0 +1,1 @@
+Implementasi backpropagation dengan bahasa pemrograman Python.
